@@ -1,6 +1,6 @@
 ---
 cas_version: "0.1.0"
-type: personal
+type: personal # personal | business | commercial — update this
 owner: "[Your name or organization]"
 domain: "[What field, industry, or purpose this covers]"
 created: "YYYY-MM-DD"
