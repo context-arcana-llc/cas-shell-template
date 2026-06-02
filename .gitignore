@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+*.swo
+
+# Environment / secrets — belt-and-suspenders; git hooks also catch these
+.env
+.env.*
+*.pem
+*.key
+
+# Temp
+*.tmp
+*.bak
+~$*
+
+# Generated exports — run cas export to regenerate
+exports/
+
+# Node
+node_modules/
+cli/node_modules/
