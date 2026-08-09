@@ -1,5 +1,5 @@
 ---
-cas_version: "0.1.0"
+cas_version: "0.6.2"
 type: personal # personal | business | commercial — update this
 owner: "[Your name or organization]"
 domain: "[What field, industry, or purpose this covers]"
@@ -77,4 +77,4 @@ No secrets in context files. API keys, tokens, passwords, and PII belong in a pa
 
 ## Framework
 
-This repository follows the [Context Architecture System™ v0.1](https://contextarchitecturesystem.com).
+This repository follows the [Context Architecture System™ v0.6.2](https://contextarchitecturesystem.com).
