@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 # Pre-push secret scanner for CAS repositories.
 # Re-scans the full set of commits being pushed — catches anything that slipped
 # past pre-commit (e.g., --no-verify or commits made before the hook was installed).

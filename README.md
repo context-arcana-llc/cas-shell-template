@@ -15,11 +15,14 @@ Update the YAML frontmatter at the top with your name, type, domain, and today's
 **2. Install the secret-scanning hooks** (one-time, per clone)
 
 ```bash
-# macOS / Linux
-bash setup.sh
+# Windows (Command Prompt — what GitHub Desktop opens)
+setup.bat
 
 # Windows PowerShell
 .\setup.ps1
+
+# macOS / Linux
+bash setup.sh
 ```
 
 Or manually:
